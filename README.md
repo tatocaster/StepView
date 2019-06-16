@@ -1,3 +1,5 @@
+# StepView
+
 This library was made from existing [PageStepIndicator](https://raw.githubusercontent.com/devmike01/PageStepIndicator) 
 library but with lots of improvement. 
 
@@ -81,6 +83,11 @@ That's all. You can customize it the way you want.
 - `svClickableTitle` Make titles clickable
 - `svSecondaryTextEnabled` Make secondary text in step indicator visible
 
+
+# Quick contributing guide
+ - Fork and clone locally
+ - Create a topic specific branch. Add some nice feature.
+ - Send a Pull Request to spread the fun!
 
 
 License
