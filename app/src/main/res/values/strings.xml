@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StepViewApp</string>
+    <string-array name="stepview_titles">
+        <item>Title Multiline 1</item>
+        <item>პირადი ინფორმაცია</item>
+        <item>Title Multiline 3</item>
+    </string-array>
+</resources>

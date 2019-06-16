@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StepView">
+        <attr name="svStepCount" format="integer" />
+        <attr name="svRadius" format="dimension" />
+        <attr name="svStrokeWidth" format="dimension" />
+        <attr name="svStepColor" format="color" />
+        <attr name="svCurrentStepColor" format="color" />
+        <attr name="svBackgroundColor" format="color" />
+        <attr name="svTextColor" format="color" />
+        <attr name="svSecondaryTextColor" format="color" />
+        <attr name="svLineHeight" format="dimension" />
+        <attr name="svSecondaryTextEnabled" format="boolean" />
+        <attr name="svTextTypeFace" format="reference" />
+        <attr name="svTextBottom" format="boolean" />
+
+        <attr name="svStrokeAlpha" format="integer" />
+        <attr name="svTitles" format="reference" />
+        <attr name="svClickableTitle" format="boolean" />
+        <attr name="svActiveTitleColor" format="color" />
+        <attr name="svInActiveTitleColor" format="color" />
+        <attr name="svTitleTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
