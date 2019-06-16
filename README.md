@@ -10,7 +10,7 @@ library but with lots of improvement.
 [![](https://jitpack.io/v/tatocaster/StepView.svg)](https://jitpack.io/#tatocaster/StepView)
 
 ### Preview
-<img src="https://raw.githubusercontent.com/tatocaster/StepView/master/preview_01.gif" width="240" height="400" />
+<img src="https://raw.githubusercontent.com/tatocaster/StepView/master/art/stepview.gif" width="240" height="400" />
 
 ### How To Use 
 
