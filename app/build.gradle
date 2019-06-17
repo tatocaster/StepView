@@ -25,7 +25,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
-    implementation 'com.github.tatocaster:StepView:1.0.0'
+    implementation project(':stepview')
     implementation libraries.appcompat
     implementation libraries.corektx
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'

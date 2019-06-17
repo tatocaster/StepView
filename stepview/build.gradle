@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.tatocaster'
+group = 'com.github.tatocaster'
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
